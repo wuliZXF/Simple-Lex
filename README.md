@@ -14,6 +14,7 @@ The *.l* file can only include token names and their regular expressions that in
 
 ## Example
 > Notes: The OS is *Windows*.
+
 The *lex.l* is as follow.
 
 ```
