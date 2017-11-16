@@ -2,17 +2,17 @@
 
 A very simple version of Lex that generates lexical analyzers.
 
-### Goals
+## Goal
 
 It reads an input stream specifying the lexical analyzer and outputs source code implementing the lexer in the C++ programming language.
 
 For more information, see [Lex (software)](https://en.wikipedia.org/wiki/Lex_(software)).
 
-### Simplification
+## Simplification
 
 The *.l* file can only include token names and their regular expressions that indicate the rules.
 
-### Example
+## Example
 
 The *lex.l* is as follow.
 
