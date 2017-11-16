@@ -13,7 +13,7 @@ For more information, see [Lex (software)](https://en.wikipedia.org/wiki/Lex_(so
 The *.l* file can only include token names and their regular expressions that indicate the rules.
 
 ## Example
-
+> Notes: The OS is *Windows*.
 The *lex.l* is as follow.
 
 ```
