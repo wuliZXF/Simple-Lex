@@ -1,0 +1,9 @@
+var sum = 0;
+var real = 1.1;
+function count(arg) {
+	for (var i = 0; i < arg; ++i) {
+		sum += 1;
+		real -= 2.2;
+	}
+}
+count(10);
