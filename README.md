@@ -38,10 +38,10 @@ The code file named *src.txt* that is required to be analyzed:
 var sum = 0;
 var real = 1.1;
 function count(arg) {
-	for (var i = 0; i < arg; ++i) {
-		sum += 1;
-		real -= 2.2;
-	}
+    for (var i = 0; i < arg; ++i) {
+        sum += 1;
+        real -= 2.2;
+    }
 }
 count(10);
 ```
