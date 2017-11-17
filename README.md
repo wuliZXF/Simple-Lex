@@ -2,11 +2,13 @@
 
 A very simple version of Lex that generates lexical analyzers.
 
-## Goal
-
 It reads an input stream specifying the lexical analyzer and outputs source code implementing the lexer in the C++ programming language.
 
-For more information, see [Lex (software)](https://en.wikipedia.org/wiki/Lex_(software)).
+For more information about the real Lex, see [Lex (software)](https://en.wikipedia.org/wiki/Lex_(software)).
+
+## Goal
+
+I write it to help myself understand the principle of the *Lex* better.
 
 ## Simplification
 
