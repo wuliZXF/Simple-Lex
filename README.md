@@ -8,7 +8,7 @@ For more information about the real Lex, see [Lex (software)](https://en.wikiped
 
 ## Goal
 
-I write it to help myself understand the principle of the *Lex* better.
+I program it to help myself understand the principle of the *Lex* better.
 
 ## Simplification
 
