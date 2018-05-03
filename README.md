@@ -15,7 +15,6 @@ I program it to help myself understand the principle of the *Lex* better.
 The *.l* file can only include token names and their regular expressions that indicate the rules.
 
 ## Example
-> Notes: The OS is *Windows*.
 
 The *lex.l* is as follow.
 
